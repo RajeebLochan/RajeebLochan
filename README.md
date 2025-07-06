@@ -13,8 +13,6 @@
 
 - 📝 I write tech blogs on [GitHub & LinkedIn](https://www.linkedin.com/in/rajeeblochanbehera/)
 
-- 📫 How to reach me: **rajeeblochanbehera@gmail.com**
-
 - ⚡ Fun fact: `I hack NASA using HTML 😎 | 127.0.0.1 is my happy place`
 
 ---

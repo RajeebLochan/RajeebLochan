@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Data Science** and **Python Automation** projects
 
-- 📝 I write tech blogs on [GitHub & LinkedIn](https://www.linkedin.com/in/rajeeblochanbehera/)
+- 📝 I write tech blogs on [LinkedIn](https://www.linkedin.com/in/rajeeb-lochan/)
 
 - ⚡ Fun fact: `I hack NASA using HTML 😎 | 127.0.0.1 is my happy place`
 

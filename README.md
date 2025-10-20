@@ -100,7 +100,7 @@
 ### GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajeebLochan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RajeebLochan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -108,12 +108,13 @@
 ### GITHUB ACTIVITY & STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeebLochan&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Rajeeb's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats - This link is updated for better reliability -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeebLochan&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajeeb's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-  <!-- WakaTime card: A new animated element! -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RajeebLochan&theme=dracula&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <!-- WakaTime card - Make sure your WakaTime profile is public -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RajeebLochan&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---

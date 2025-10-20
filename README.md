@@ -31,24 +31,30 @@
 
 ---
 
-### CORE TECHNOLOGIES & SKILLS
+### TECH STACK
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h4>Data & AI</h4>
-        <p>Python, SQL, Power BI, Pandas, NumPy, Scikit-Learn, OpenCV, PyTorch, Jupyter, Streamlit, ETL, LLMs/GenAI</p>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <h4>Backend & DevOps</h4>
-        <p>Django, REST APIs, Docker, PostgreSQL, Redis, Git, Caddy</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h4>Data & AI</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </p>
+  <h4>Backend & DevOps</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+</div>
 
 ---
 
@@ -91,22 +97,23 @@
 
 ---
 
-### MY GITHUB TROPHIES
+### GITHUB TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajeebLochan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RajeebLochan&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### GITHUB ACTIVITY
+### GITHUB ACTIVITY & STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajeebLochan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajeeb's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeebLochan&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Rajeeb's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=dracula&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <!-- WakaTime card: A new animated element! -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RajeebLochan&theme=dracula&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---

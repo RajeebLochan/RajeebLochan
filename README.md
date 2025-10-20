@@ -1,61 +1,114 @@
-<h1 align="center">Hi 👋, I'm Rajeeb Lochan Behera</h1>
-<h3 align="center">Python Developer | Data Analyst | CCNA Certified | Cybersecurity Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeeblochanbehera&label=Profile%20views&color=0e75b6&style=flat" alt="rajeeblochanbehera" />
+# RAJEEB LOCHAN BEHERA
+
+### DATA & AI ENGINEER
+
+<p>
+  I transform raw data into intelligent, deployed applications. My passion lies in bridging the gap between data analytics and software engineering, creating products that are not only insightful but also secure and scalable.
 </p>
 
-- 🔭 I’m currently working on **Face Recognition Attendance System**, **Power BI Dashboards**, and **Python Automation**
+<img src="https://komarev.com/ghpvc/?username=RajeebLochan&label=Profile%20Views&color=bb9af7&style=for-the-badge" alt="RajeebLochan Profile Views" />
 
-- 🌱 I’m currently learning **Advanced SQL**, **Django**, and **Cybersecurity Scripting**
-
-- 👯 I’m looking to collaborate on **Open Source Data Science** and **Python Automation** projects
-
-- 📝 I write tech blogs on [LinkedIn](https://www.linkedin.com/in/rajeeb-lochan/)
-
-- ⚡ Fun fact: `I hack NASA using HTML 😎 | 127.0.0.1 is my happy place`
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeeblochan&show_icons=true&theme=radical" alt="Rajeeb's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeeblochan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeeblochan&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔗 Connect with me
-
-<p align="left">
+<div align="center">
+  <a href="https://rajeebthedev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/rajeeb-lochan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rajeebl2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://twitter.com/rajeeb_thedev" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-</p>
+  <a href="mailto:rajeebthedev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-> 💬 “Stay curious, keep building, and break the limits.”
+### CORE TECHNOLOGIES & SKILLS
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h4>Data & AI</h4>
+        <p>Python, SQL, Power BI, Pandas, NumPy, Scikit-Learn, OpenCV, PyTorch, Jupyter, Streamlit, ETL, LLMs/GenAI</p>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <h4>Backend & DevOps</h4>
+        <p>Django, REST APIs, Docker, PostgreSQL, Redis, Git, Caddy</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">QuickPost AI - Full-Stack Social App</h3>
+<div align="center">
+<p>A complete social media platform built with Django, featuring a real-time messaging service (WebSockets) and a content feed powered by the Gemini AI API. Showcases end-to-end development, from backend logic to containerization with Docker.</p>
+<p><b><a href="https://github.com/RajeebLochan/QuickPost">[View on GitHub]</a></b></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">WhatsApp Analyzer</h3>
+<div align="center">
+<p>An interactive dashboard built with Streamlit that uses ML and NLP to analyze WhatsApp chat logs for sentiment trends, user personas, and activity patterns. Features a Generative AI summary tool.</p>
+<p><b><a href="https://github.com/RajeebLochan/Whatsapp_analysis">[View on GitHub]</a></b></p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Real-Time Face Recognition System</h3>
+<div align="center">
+<p>A contactless attendance system built with Python and Django. It leverages a FaceNet deep learning model to identify individuals from a live video feed with over 98% accuracy and logs attendance securely.</p>
+<p><b><a href="https://github.com/RajeebLochan/Project-Face-attandence-system">[View on GitHub]</a></b></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Payment Fraud Detection Model</h3>
+<div align="center">
+<p>A machine learning model to detect fraudulent transactions in a simulated payment dataset. This project involves data preprocessing, feature engineering, and model evaluation to achieve high accuracy in fraud detection.</p>
+<p><b><a href="https://github.com/RajeebLochan/Pay-Sim-Fraud-Detection-Using-ML">[View on GitHub]</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### GITHUB ACTIVITY
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeebLochan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rajeeb's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+### MY CONTRIBUTIONS ARE BEING EATEN BY A SNAKE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RajeebLochan/RajeebLochan/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
+
+---
+
+> "The best way to predict the future is to create it." - Peter Drucker

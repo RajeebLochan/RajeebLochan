@@ -113,10 +113,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <!-- WakaTime card - Make sure your WakaTime profile is public -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RajeebLochan&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---
 
-> "The best way to predict the future is to create it." - Peter Drucker
+> "Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi

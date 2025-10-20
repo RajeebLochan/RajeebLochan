@@ -1,6 +1,6 @@
 <div align="center">
 
-# RAJEEB LOCHAN BEHERA
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=BB9AF7&center=true&vCenter=true&width=1000&lines=RAJEEB+LOCHAN+BEHERA" alt="Typing SVG" /></a>
 
 ### DATA & AI ENGINEER
 
@@ -91,6 +91,14 @@
 
 ---
 
+### MY GITHUB TROPHIES
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RajeebLochan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### GITHUB ACTIVITY
 
 <div align="center">
@@ -99,14 +107,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeebLochan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeebLochan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-### MY CONTRIBUTIONS ARE BEING EATEN BY A SNAKE
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RajeebLochan/RajeebLochan/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 </div>
 
 ---
